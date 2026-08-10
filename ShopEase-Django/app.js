@@ -1,0 +1,2 @@
+document.querySelectorAll('[data-toggle-password]').forEach(button => button.addEventListener('click', () => { const input = document.querySelector(button.dataset.togglePassword); input.type = input.type === 'password' ? 'text' : 'password'; button.querySelector('i').classList.toggle('fa-eye-slash'); }));
+setTimeout(() => document.querySelectorAll('.toast-stack .alert').forEach(el => bootstrap.Alert.getOrCreateInstance(el).close()), 4500);
