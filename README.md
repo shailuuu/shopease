@@ -1,0 +1,2 @@
+# shopease
+ShopEase is a modern e-commerce website designed to provide customers with a simple, smooth, and convenient online shopping experience. The platform offers a curated collection of everyday essentials, lifestyle products, smart technology, accessories, and more.
